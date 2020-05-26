@@ -22,7 +22,11 @@ body{
   display: inline-block;
   background: white;
   color: black;
+<<<<<<< HEAD
   border: 3px solid blue;
+=======
+  border: 3px solid red;
+>>>>>>> 6f0e2d9bfa62d231339877a834b62913eb2c2639
   font-size: 1.5rem;
   padding :0.5rem;
   border-radius: 20%;
